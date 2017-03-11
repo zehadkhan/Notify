@@ -1,0 +1,243 @@
+*{
+	 margin:0;
+	 padding:0;
+}
+body,html{
+	 margin:0;
+	 padding:0;
+}
+a {
+	color: #2ecc71;
+}
+
+.area{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.fix{
+	clear: both;
+}
+/*.wrapper {
+}*/
+
+.header {
+	border-top: 10px solid #2ecc71;
+	background: url(images/header-bg.jpg) no-repeat 0 0;
+	background-size: 100%;
+	height: 506px;
+}
+
+.logo {
+	margin-top: 130px;
+    margin-left: 80px;
+}
+.subtitle{
+	margin-left: -18px;
+	padding: 14px;
+
+}
+.subtitle p {
+    color: #ffffff;
+    font-size: 22px;
+    margin-bottom: 25px;
+    margin-left: 100px;
+}
+.subtitle ul{
+	list-style: none;
+	margin-left: 80px;
+}
+.subtitle ul li {
+	float: left;
+	margin-right: 16px;
+
+}
+.subtitle ul li a {
+
+}
+
+/*.all_icons{
+
+}*/
+
+/*.services {
+	float: left;
+	overflow: hidden;
+
+}*/
+.service{
+	float: left;
+	width: 320px;
+	text-align: center;
+	margin: 60px 0;
+
+}
+.service img{
+	background-color:#2ecc71;
+    padding: 20px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+
+}
+.service h2{
+	font-family: arial;
+	color: #222222;
+	margin-bottom: 30px;
+
+}
+.service p{
+	font-family: arial;
+	color: #848484;
+}
+
+.update {
+	background-color: #E3E3E3;
+	height: 427px;
+
+}
+
+.notify-mail {
+	
+	  position: absolute;
+      padding-left: 192px;
+      line-height: 27px;
+      width: 484px;
+      top: 906px;
+}
+.notify-mail h2{
+	font-family: arial;
+	color: #222222;
+    font-size: 24px;
+
+}
+.notify-mail p{
+	font-family: arial;
+	color: #aaaaaa;
+    font-size: 15px;
+    margin-bottom: 30px;
+
+}
+.notify-mail form{
+
+}
+.notify-mail form input{
+	border: 1px solid #c8c8c8;
+    padding: 18px;
+    border-radius: 10px 0px 0px 10px;
+    padding-right: 78px;
+
+}
+.notify-mail form button{
+    background-color: #2ecc71;
+    padding: 10px 45px 15px 35px;
+    border: 1px solid #2ecc71;
+    border-radius: 0px 10px 10px 0px;
+    margin-left: -4px;
+    font-size: 22px ;
+    color: #ffffff;
+    font-weight: 600;
+
+}
+
+.video {
+	 width: 530px;
+     float: right;
+     padding: 72px;
+}
+
+/*.testimonial {
+	
+}*/
+.testimonial p{
+	color: #848484;
+	font-family: arial;
+	font-size: 18px;
+	font-style: italic;
+	margin-top: 20px;
+	text-align: center;
+
+}
+.testimonial h3{
+    color: #2E2E2E;
+    font-family: arial;
+    font-size: 18px;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 55px;
+
+}
+.clients{
+	list-style: none;
+	margin-bottom: 60px;
+ }
+.clients li{
+	float: left;
+	margin-right: 5px;
+
+ }
+.social_buttons h2{
+	text-align:center;
+	margin: 0px 0;
+	font-size: 24px;
+	font-family: arial;
+
+
+}
+.social_buttons p{
+	color: #848484;
+	font-family: arial;
+	font-style: normal;
+	font-size: 18px;
+	margin-top: 20px;
+	text-align: center;
+
+}
+
+
+.social-icon {
+	list-style: none;
+	text-align: center;
+	width: 27%;
+	margin: 0 auto;
+	padding: 28px;
+}
+.social-icon li{
+	float: left;
+}
+.social-icon li a img{
+	background:#d4d4d4;
+	padding:0px auto;
+	margin-right: 8px;
+	border-radius:45px;
+	text-align: center; 
+}
+
+.footer {
+	border-bottom:100px solid #E3E3E3;
+}
+
+.footer_menu {
+	list-style: none;
+	height: 83px;
+    width: 50%;
+	margin:0 auto;
+	line-height: 122px;
+    position: absolute;
+    padding-left: 345px;
+}
+.footer_menu li{
+	float: left;
+}
+.footer_menu li a{
+    font-family: arial;
+    color: #848484;
+    font-size: 16px;
+    margin-right: 40px;
+    text-decoration: none;
+
+}
+/*.footer_menu ul li a:hover{
+	text-decoration: none;
+	color: #2ecc71;
+
+}*/
